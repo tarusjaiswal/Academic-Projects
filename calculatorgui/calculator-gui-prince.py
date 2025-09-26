@@ -1,9 +1,4 @@
-# A Beautiful Calculator using Tkinter by Prince ✅❌💛
-# --------------------------------------------------------------------
-# This code creates a modern, colorful calculator with a sleek design
-# using the Tkinter library in Python. It features a user-friendly
-# interface, vibrant colors, and smooth functionality.
-# --------------------------------------------------------------------
+
 
 import tkinter as tk
 
