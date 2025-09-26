@@ -38,7 +38,7 @@ btn_colors = {
 
 # --- Window setup ---
 window = tk.Tk()
-window.title("🎨 Prince’s Beautiful Calculator")
+window.title("🎨 Tarus’ Beautiful Calculator")
 window.geometry("360x500")
 window.config(bg="#1e1e1e")  # Dark theme background
 
